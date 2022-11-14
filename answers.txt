@@ -1,3 +1,15 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Muhammad Warrad
+1. Linus Torvalds
+2. he also created Linux kernel (operating system)
+3. 2005
+4. git init
+5. git push basicly posts your work to a remote repo
+6. it ensure that certain files not tracked by Git remain untracked.
+7. a fork is a copy of a repo where you can edit/change it. without a fork you can not make changes.
+8. creates a linked copy that will continue to synchronize with the target repository.
+there is no limit of how many clones you can have
+9. NEVER!
+10. true
